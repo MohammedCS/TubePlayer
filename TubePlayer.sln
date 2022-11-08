@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TubePlayer", "TubePlayer\TubePlayer.csproj", "{06779AD3-44B8-4FAB-A3F6-927006F2EC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.Apps.Framwork", "Maui.Apps.Framwork\Maui.Apps.Framwork.csproj", "{097CCEAD-FD18-4483-A45F-DB2F84D6787C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06779AD3-44B8-4FAB-A3F6-927006F2EC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06779AD3-44B8-4FAB-A3F6-927006F2EC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06779AD3-44B8-4FAB-A3F6-927006F2EC65}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{06779AD3-44B8-4FAB-A3F6-927006F2EC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06779AD3-44B8-4FAB-A3F6-927006F2EC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06779AD3-44B8-4FAB-A3F6-927006F2EC65}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{097CCEAD-FD18-4483-A45F-DB2F84D6787C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097CCEAD-FD18-4483-A45F-DB2F84D6787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097CCEAD-FD18-4483-A45F-DB2F84D6787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097CCEAD-FD18-4483-A45F-DB2F84D6787C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
